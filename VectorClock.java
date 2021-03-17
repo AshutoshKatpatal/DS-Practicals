@@ -10,7 +10,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 
-public class VectorClock1 {
+public class VectorClock {
     public static Integer getKey(Set<Map.Entry<Integer,Integer>> entrySet,Integer value){
         Integer key=null;
         for(Map.Entry entry:entrySet){
