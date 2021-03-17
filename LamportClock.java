@@ -3,7 +3,7 @@ package rcoem.ds.lamport;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Pract1{
+public class LamportClock{
 
     int e[][] = new int[10][10];
     int en[][] = new int[10][10];
